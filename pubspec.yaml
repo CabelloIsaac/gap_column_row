@@ -1,0 +1,17 @@
+name: gap_column_row
+description: A Flutter package that introduces GapColumn and GapRow widgets to simplify layout with spacing.
+version: 0.0.1
+homepage: https://github.com/CabelloIsaac/gap_column_row
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
